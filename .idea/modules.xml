@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../../../gs-spring-boot-docker-master/complete/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/../../../../gs-spring-boot-docker-master/complete/.mvn/.mvn.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../../../gs-spring-boot-docker-master/complete/.mvn/.mvn1.iml" filepath="$PROJECT_DIR$/../../../../gs-spring-boot-docker-master/complete/.mvn/.mvn1.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../../../gs-spring-boot-docker-master/complete/gradle/gradle.iml" filepath="$PROJECT_DIR$/../../../../gs-spring-boot-docker-master/complete/gradle/gradle.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/gs-spring-boot-docker-master.iml" filepath="$PROJECT_DIR$/.idea/gs-spring-boot-docker-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../../../gs-spring-boot-docker-master/complete/src/main/main.iml" filepath="$PROJECT_DIR$/../../../../gs-spring-boot-docker-master/complete/src/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../../../gs-spring-boot-docker-master/complete/src/main/main1.iml" filepath="$PROJECT_DIR$/../../../../gs-spring-boot-docker-master/complete/src/main/main1.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../../../gs-spring-boot-docker-master/complete/target/target.iml" filepath="$PROJECT_DIR$/../../../../gs-spring-boot-docker-master/complete/target/target.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../../../gs-spring-boot-docker-master/complete/src/test/test.iml" filepath="$PROJECT_DIR$/../../../../gs-spring-boot-docker-master/complete/src/test/test.iml" />
